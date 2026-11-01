@@ -1,0 +1,91 @@
+/* Heritage Protection Service, site styles (2009, rev. 2016) */
+html{background:#d9cfb8 url(ground.png)}
+body{margin:0;padding:12px 0 24px;font:12px/1.5 Verdana,Tahoma,Arial,sans-serif;color:#2b2419}
+a{color:#7a3b1e}
+a:visited{color:#5c3a28}
+a:hover{color:#b0491a}
+#sheet{width:960px;max-width:100%;margin:0 auto;background:#fbf8f0;border:1px solid #a89a78;box-shadow:0 0 6px rgba(60,40,10,.35)}
+#top{background:#7a3b1e linear-gradient(#93502c,#6a3117);color:#f3e8cc;border-bottom:4px solid #c9a55a;position:relative}
+#top .in{display:flex;align-items:center;gap:14px;padding:12px 16px}
+#top img.mark{width:78px;height:78px}
+#top img.emb{width:54px;height:auto;margin-left:auto;opacity:.95}
+#top .t1{font:11px Tahoma,Verdana,sans-serif;letter-spacing:1px;text-transform:uppercase;color:#e5cf9a}
+#top .t2{font:bold 24px/1.15 Georgia,'Times New Roman',serif;color:#fff;text-shadow:1px 1px 0 #3e1a08}
+#top .t3{font:italic 13px Georgia,serif;color:#f0dfb6}
+#lang{position:absolute;right:16px;top:6px;font-size:11px}
+#lang a{color:#f3e8cc;text-decoration:none;margin-left:6px}
+#lang a.on{font-weight:bold;text-decoration:underline}
+#menu{background:#e8d9b5 linear-gradient(#f2e7cb,#dcc89a);border-bottom:1px solid #a89a78;padding:0 8px}
+#menu a{display:inline-block;padding:6px 11px;font:bold 11px Tahoma,Verdana,sans-serif;text-transform:uppercase;color:#4a2a12;text-decoration:none;border-right:1px solid #c7b384}
+#menu a:hover,#menu a.on{background:#fbf8f0;color:#7a3b1e}
+#ticker{background:#fff7cc;border-bottom:1px solid #e1c96a;padding:4px 12px;font-size:11px;white-space:nowrap;overflow:hidden}
+#ticker b{color:#b0101a}
+#ticker marquee{display:inline-block;width:calc(100% - 90px);vertical-align:bottom}
+.frame{display:flex;gap:0}
+#side{width:200px;flex:none;background:#f1ead8;border-right:1px solid #d2c4a2;padding:12px 10px;font-size:11px}
+#side .box{background:#fff;border:1px solid #c7b384;margin-bottom:12px}
+#side .box h4{margin:0;padding:4px 7px;background:#c9a55a;color:#fff;font:bold 11px Tahoma,sans-serif;text-transform:uppercase}
+#side .box div{padding:6px 7px}
+#side ul{margin:0;padding:0 0 0 14px}
+#side .cnt{font:bold 13px 'Courier New',monospace;background:#222;color:#7fff7f;padding:2px 5px;letter-spacing:2px;display:inline-block}
+main{flex:1;min-width:0;padding:14px 20px 20px}
+h1{font:bold 20px Georgia,'Times New Roman',serif;color:#6a3117;margin:0 0 10px;border-bottom:1px dotted #a89a78;padding-bottom:5px}
+h2{font:bold 15px Georgia,serif;color:#6a3117;margin:18px 0 6px}
+h3{font:bold 12px Verdana,sans-serif;margin:12px 0 4px}
+.lead{font-size:13px}
+.crumbs{font-size:11px;color:#7b6f58;margin-bottom:8px}
+.notice{border:2px solid #b0101a;background:#fff8e6;padding:8px 10px 8px 46px;margin:12px 0;position:relative}
+.notice:before{content:"!";position:absolute;left:12px;top:8px;width:22px;height:22px;border-radius:50%;background:#b0101a;color:#fff;font:bold 15px/22px Georgia,serif;text-align:center}
+.notice b.h{display:block;color:#b0101a;text-transform:uppercase;font-size:11px;letter-spacing:1px}
+.nophoto{display:inline-block;border:2px solid #b0101a;color:#b0101a;font:bold 10px Tahoma,sans-serif;padding:1px 5px;text-transform:uppercase;letter-spacing:.5px;white-space:nowrap}
+.nophoto:before{content:"\2298 "}
+.okphoto{color:#4d6b2a;font-size:10px;font-weight:bold;text-transform:uppercase}
+table.reg{border-collapse:collapse;width:100%;font-size:11px;margin:8px 0}
+table.reg th{background:#7a3b1e;color:#fff;text-align:left;padding:4px 6px;font-weight:bold;border:1px solid #5c2a12}
+table.reg td{border:1px solid #d2c4a2;padding:4px 6px;vertical-align:top}
+table.reg tr:nth-child(even) td{background:#f5efe0}
+table.reg td.no{font-family:'Courier New',monospace;font-weight:bold;white-space:nowrap}
+table.card{border-collapse:collapse;width:100%;font-size:12px;margin:8px 0}
+table.card th{width:30%;text-align:left;background:#efe6cf;border:1px solid #d2c4a2;padding:4px 7px;font-weight:bold;vertical-align:top}
+table.card td{border:1px solid #d2c4a2;padding:4px 7px}
+.grade{display:inline-block;font:bold 10px Tahoma,sans-serif;padding:0 4px;border:1px solid}
+.g-W{color:#fff;background:#1f4e8a;border-color:#163a68}
+.g-N{color:#6a3117;background:#f2e7cb;border-color:#c9a55a}
+.g-L{color:#4d6b2a;background:#eef3e2;border-color:#9fb37c}
+.g-P{color:#8a5a00;background:#fff3c4;border-color:#d9b44a}
+.filters{background:#f1ead8;border:1px solid #d2c4a2;padding:6px 8px;font-size:11px}
+.filters select,.filters input{font:11px Verdana,sans-serif}
+figure{margin:10px 0}
+figure img{max-width:100%;height:auto;border:1px solid #a89a78;padding:3px;background:#fff}
+figcaption{font-size:10px;color:#7b6f58}
+.noimg{border:1px dashed #b0101a;background:#f7f2e6;color:#b0101a;text-align:center;padding:50px 10px;font:bold 12px Tahoma,sans-serif;text-transform:uppercase}
+.two{display:flex;gap:14px}
+.two>*{flex:1;min-width:0}
+.news{margin:0;padding:0;list-style:none}
+.news li{border-bottom:1px dotted #c7b384;padding:6px 0}
+.news .d{font:bold 11px 'Courier New',monospace;color:#7a3b1e}
+.new{background:#b0101a;color:#fff;font:bold 9px Tahoma,sans-serif;padding:0 3px;animation:blink 1.2s steps(2) infinite}
+@keyframes blink{50%{opacity:.2}}
+.form{background:#f5efe0;border:1px solid #d2c4a2;padding:10px}
+.form label{display:block;margin:6px 0 2px;font-weight:bold;font-size:11px}
+.form input,.form select,.form textarea{width:100%;box-sizing:border-box;font:12px Verdana,sans-serif;border:1px solid #a89a78;padding:3px}
+.form button{margin-top:8px;font:bold 11px Tahoma,sans-serif;background:#e8d9b5;border:1px outset #c7b384;padding:3px 12px;cursor:pointer}
+.answer{display:none;margin-top:10px;border:1px solid #4d6b2a;background:#eef3e2;padding:8px}
+#foot{border-top:4px solid #c9a55a;background:#6a3117;color:#e5cf9a;font-size:10px;padding:10px 16px}
+#foot a{color:#fff}
+.small{font-size:10px;color:#7b6f58}
+@media (max-width:760px){
+  body{padding:0}
+  #sheet{border:0}
+  #top .in{padding:10px 12px}
+  #top img.emb{display:none}
+  #lang{position:static;text-align:right;padding:4px 12px 0}
+  #top img.mark{width:56px;height:56px}
+  #top .t2{font-size:18px}
+  .frame{flex-direction:column}
+  #side{width:auto;border-right:0;border-top:1px solid #d2c4a2;order:2}
+  main{padding:12px}
+  .two{flex-direction:column}
+  table.reg .hm{display:none}
+  #menu a{padding:6px 8px}
+}
