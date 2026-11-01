@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-11-01",
   "monuments": [
     {
       "id": "st-janyl",
@@ -166,6 +166,133 @@
       "desc": "A domed brick mausoleum of the 14th century with a carved terracotta portal. Kyrgyz tradition holds it to be the tomb of Manas; its Arabic inscription names a woman, Kenizek-Khatun."
     },
     {
+      "id": "juma-mosque-talas",
+      "no": "97/008",
+      "name": "Juma Mosque of Talas",
+      "name_ru": "Джума-мечеть Таласа",
+      "type": "Monument of architecture",
+      "grade": "N",
+      "district": "Talas City",
+      "place": "Old City of Talas, south of the citadel mound",
+      "date": "1890s; minaret top rebuilt 1993",
+      "entered": "12.05.1997",
+      "holder": "Spiritual Administration of the Muslims of Irad (user); building state property",
+      "zone": "Within the protected zone of the Old City (97/005). The porch and its columns may not be glazed or enclosed.",
+      "photo": "yes",
+      "rules": [
+        "No photography or filming during prayers.",
+        "Remove shoes before entering the prayer hall. Women cover their heads.",
+        "Visitors are not admitted at Friday noon prayer."
+      ],
+      "notice": "A working mosque. Visits outside prayer times by arrangement with the imam-khatib.",
+      "desc": "Congregational mosque of the Old City with a columned wooden porch (aivan) of carved poplar columns on stone bases and a brick minaret. Closed in the 1930s and used as a store, reopened for worship in 1992. The top of the minaret fell in the Suusamyr earthquake of August 1992 and was rebuilt in brick from the old photographs."
+    },
+    {
+      "id": "st-yuhanna",
+      "no": "97/009",
+      "name": "Church of St. Yuhanna, Talas",
+      "name_ru": "Церковь Святого Юханны, Талас",
+      "type": "Monument of architecture and history",
+      "grade": "N",
+      "district": "Talas City",
+      "place": "Old City of Talas",
+      "date": "Late 19th c., on older foundations",
+      "entered": "12.05.1997",
+      "holder": "Syro-Iradi Catholic Archeparchy of Iyık Janyl (parish church)",
+      "zone": "Within the protected zone of the Old City (97/005); the churchyard and its wall.",
+      "photo": "yes",
+      "rules": [
+        "No photography or filming during services.",
+        "No flash or tripods inside the church."
+      ],
+      "notice": "A parish church in use. The open-air liturgies of 1990 are marked by a stone in the churchyard.",
+      "desc": "The oldest church of the Old City still in use, a brick hall church with a low dome over the sanctuary. Shut from 1937 to 1992. From Easter 1990 priests said open-air liturgies in front of the closed church, the first public services in Talas since the closures; the church was given back to the parish in 1992."
+    },
+    {
+      "id": "temir-kapka",
+      "no": "97/010",
+      "name": "Temir-Kapka gate",
+      "name_ru": "Ворота Темир-Капка",
+      "type": "Monument of architecture (fortification)",
+      "grade": "N",
+      "district": "Talas City",
+      "place": "North entrance of the Old City of Talas",
+      "date": "1820s (Kokand period); iron-clad leaves 19th c.",
+      "entered": "12.05.1997",
+      "holder": "Mayor's Office of Talas",
+      "zone": "The gate, the wall stubs either side and 20 m around. No vehicles over 3.5 t through the gate.",
+      "photo": "yes",
+      "rules": [
+        "No climbing on the gate or the wall stubs.",
+        "Filming and commercial photography: filming permit from the Service."
+      ],
+      "notice": "Traffic through the gate is one way. Pedestrians use the side passage.",
+      "desc": "The only surviving gate of the outer town wall of Kokand Talas, a brick gate tower with a pointed arch and the iron-clad timber leaves that give it its name (\"iron gate\"). The wall either side was pulled down for streets in the Russian period."
+    },
+    {
+      "id": "talas-minaret-site",
+      "no": "97/011",
+      "name": "Kara-Khanid minaret site, Talas",
+      "name_ru": "Место караханидского минарета, Талас",
+      "type": "Monument of archaeology",
+      "grade": "N",
+      "district": "Talas City",
+      "place": "Old City of Talas",
+      "date": "11th–12th c.",
+      "entered": "12.05.1997",
+      "holder": "Heritage Protection Service",
+      "zone": "The fenced plot and 10 m around it. No digging for services without the Service's supervision.",
+      "photo": "yes",
+      "rules": [
+        "Do not enter the fenced plot.",
+        "Filming and commercial photography: filming permit from the Service."
+      ],
+      "notice": "The base is shown under a protective roof. Information board in Iradi, Russian and English.",
+      "desc": "The octagonal brick base of a Kara-Khanid minaret, with bands of cut-brick ornament, found under a courtyard in the Old City. The oldest standing masonry in Talas and evidence for the medieval town under the Old City."
+    },
+    {
+      "id": "aulie-ata",
+      "no": "97/012",
+      "name": "Mausoleum of Aulie-Ata and the fortress mound",
+      "name_ru": "Мавзолей Аулие-Ата и городище крепости",
+      "type": "Monuments of architecture and archaeology (ensemble)",
+      "grade": "N",
+      "district": "Kara-Buura District",
+      "place": "Old core of Aulie-Ata town",
+      "date": "Mausoleum 11th–12th c., rebuilt; fortress 1850s on an older mound",
+      "entered": "12.05.1997",
+      "holder": "Heritage Protection Service; the mausoleum is a place of pilgrimage for local Muslims",
+      "zone": "The mausoleum, the mound and the Russian-period streets round the bazaar (protected zone ~18 ha).",
+      "photo": "yes",
+      "rules": [
+        "Remove shoes inside the mausoleum.",
+        "No photography of pilgrims at prayer without their consent."
+      ],
+      "notice": "The mausoleum is a place of prayer. The mound is unstable on its north side; keep to the paths.",
+      "desc": "The domed mausoleum of a Kara-Khanid ruler venerated as Aulie-Ata (\"holy father\"), round which the town grew, and the mound of the Kokand fortress of the 1850s, taken by the Russians in 1864. Some Russian and Soviet scholars placed medieval Taraz under the mound; Iradi historiography places Taraz at Talas. The Register records the site without taking a side."
+    },
+    {
+      "id": "talas-moncho",
+      "no": "97/013",
+      "name": "Old City bathhouse (moncho) and the Sarchashma Springs",
+      "name_ru": "Городская баня (мончо) и родники Сарчашма",
+      "type": "Monument of architecture; natural monument (springs)",
+      "grade": "L",
+      "district": "Talas City",
+      "place": "Old City of Talas, below the citadel mound",
+      "date": "Kokand period (19th c.); restored 2014",
+      "entered": "12.05.1997",
+      "holder": "Mayor's Office of Talas (owner); bathhouse let to an operator",
+      "zone": "The bathhouse, the springs and the brick channels between them.",
+      "photo": "yes",
+      "rules": [
+        "No photography inside the bathhouse.",
+        "Do not wash, water animals or throw coins in the springs."
+      ],
+      "notice": "The bathhouse is open to the public: men's and women's days alternate.",
+      "desc": "A domed brick bathhouse fed by the citadel springs through brick channels, restored and reopened in 2014 with the spring water piped again. Old Talas families still take a bride there before the wedding."
+    },
+    {
       "id": "kart-archa",
       "no": "98/014",
       "name": "The Old Juniper (Kart Archa)",
@@ -207,6 +334,109 @@
       ],
       "notice": "Pilgrims follow the Order's routes. Do not remove stones, crosses or votive objects.",
       "desc": "Twelve of the hermitages in the limestone gorges used by Christians who worshipped in secret after Timur and by monks and priests hiding in the 1930s. About forty are known; the twelve entered here are those the Service has surveyed."
+    },
+    {
+      "id": "abdrai-korgon",
+      "no": "98/016",
+      "name": "Korgon of the Abdrai captains",
+      "name_ru": "Коргон (укреплённая усадьба) минбашы Абдрая",
+      "type": "Monument of architecture and history",
+      "grade": "N",
+      "district": "Talas District",
+      "place": "Below the old Talas forts, west of the city",
+      "date": "1730s–1860s; gate tower restored 2011–16",
+      "entered": "03.06.1998 (local importance); national importance from 2016",
+      "holder": "Abdrai Heritage Foundation (user, under agreement with the Service)",
+      "zone": "The walls of the korgon and 50 m around them.",
+      "photo": "yes",
+      "rules": [
+        "The gate tower is open on Saturdays 10:00-15:00 and by arrangement.",
+        "Filming and commercial photography: filming permit from the Service."
+      ],
+      "notice": "Restoration of the gate tower by the Abdrai Heritage Foundation was approved by the Service (form HPS-3).",
+      "desc": "The walled farmstead (korgon) that was the seat of the Abdrai line of mingbashy, captains of the Christian Iradi horse of the Khanate of Kokand from the firman of 1730 until Chernyayev took the Talas forts in 1864. Rammed-earth walls with corner towers and a brick gate tower. The only building of the Kokand period in Irad tied to a Christian office."
+    },
+    {
+      "id": "cathedral-hill-cemetery",
+      "no": "98/017",
+      "name": "Old cemetery of Cathedral Hill",
+      "name_ru": "Старое кладбище Соборного холма",
+      "type": "Monument of history (necropolis)",
+      "grade": "N",
+      "district": "Iyık Janyl City",
+      "place": "North slope of Cathedral Hill, Iyık Janyl",
+      "date": "18th c. – 1937",
+      "entered": "03.06.1998",
+      "holder": "Syro-Iradi Catholic Archeparchy of Iyık Janyl",
+      "zone": "Within the buffer zone of the World Heritage property (97/001).",
+      "photo": "yes",
+      "rules": [
+        "No photography of funerals or memorial services.",
+        "Do not touch or rub the gravestones."
+      ],
+      "notice": "A consecrated burial ground. Visitors keep to the paths.",
+      "desc": "Burial ground of the bishops and clergy of Iyık Janyl before the closures of 1937, with carved stones in Syriac and Iradi. Mar Gewargis and three of his successors lie in the church crypt; most of the other bishops and clergy before 1937 lie here."
+    },
+    {
+      "id": "order-motherhouse",
+      "no": "98/018",
+      "name": "Motherhouse of the Order of St. Janyl",
+      "name_ru": "Главный монастырь ордена Святой Джаныл",
+      "type": "Monument of architecture and history",
+      "grade": "L",
+      "district": "Iyık Janyl City",
+      "place": "Edge of the Naryn gorge below Cathedral Hill, Iyık Janyl",
+      "date": "19th–20th c.",
+      "entered": "03.06.1998",
+      "holder": "Order of St. Janyl",
+      "zone": "The enclosure wall and the buildings inside it.",
+      "photo": "yes",
+      "rules": [
+        "The enclosure is closed to visitors except the chapel.",
+        "No photography of the sisters or brothers without consent."
+      ],
+      "notice": "A religious house. The chapel is open for services.",
+      "desc": "Motherhouse of the Order of St. Janyl. Its women's branch opened a school for deaf girls here in 1926, where the sisters made the sign vocabulary from which Iradi Sign Language grew; the school was closed in 1937."
+    },
+    {
+      "id": "st-gewargis-chapel",
+      "no": "98/019",
+      "name": "Chapel of St. Gewargis, Bazar-Korgon",
+      "name_ru": "Часовня Святого Геваргиса, Базар-Коргон",
+      "type": "Monument of architecture",
+      "grade": "L",
+      "district": "Lower Naryn District",
+      "place": "Outside Bazar-Korgon",
+      "date": "19th c.",
+      "entered": "03.06.1998",
+      "holder": "Syro-Iradi Catholic Archeparchy of Iyık Janyl",
+      "zone": "The chapel and its yard.",
+      "photo": "yes",
+      "rules": [
+        "No photography during services."
+      ],
+      "notice": "The key is kept in the parish. Damage to the chapel should be reported to the Service and the police.",
+      "desc": "Small domed brick chapel on the edge of Bazar-Korgon, one of the few Christian buildings of the Fergana rim farm belt. When a horse skull was nailed over its door in March 2016, men from the town mosque helped take it down."
+    },
+    {
+      "id": "kochkor-ata-chapel",
+      "no": "98/020",
+      "name": "Chapel at Kochkor-Ata",
+      "name_ru": "Часовня в Кочкор-Ате",
+      "type": "Monument of architecture",
+      "grade": "L",
+      "district": "Lower Naryn District",
+      "place": "Kochkor-Ata",
+      "date": "Late 19th c.",
+      "entered": "03.06.1998",
+      "holder": "Syro-Iradi Catholic Archeparchy of Iyık Janyl",
+      "zone": "The chapel and its yard.",
+      "photo": "yes",
+      "rules": [
+        "No photography during services."
+      ],
+      "notice": "The key is kept in the parish.",
+      "desc": "Village chapel of the Christian minority of Kochkor-Ata, a mainly Muslim town of the Lower Naryn."
     },
     {
       "id": "kand-i-kohna",
@@ -251,6 +481,106 @@
       "desc": "A walled Sogdian and Kara-Khanid town with a citadel mound, a mudbrick shahristan and an outer suburb."
     },
     {
+      "id": "coppersmiths-row",
+      "no": "99/023",
+      "name": "Coppersmiths' Row",
+      "name_ru": "Ряд медников",
+      "type": "Monument of town planning (trade street)",
+      "grade": "L",
+      "district": "Talas City",
+      "place": "Old City of Talas, towards Bazar-i Kalan",
+      "date": "19th c.",
+      "entered": "20.09.1999",
+      "holder": "Mayor's Office of Talas; shops privately held",
+      "zone": "Within the protected zone of the Old City (97/005). Shopfronts follow the Service's rules for the row.",
+      "photo": "yes",
+      "rules": [
+        "Ask before photographing craftsmen at work."
+      ],
+      "notice": "A working street. Signs and awnings need the Service's approval.",
+      "desc": "Street of coppersmiths' and tinsmiths' workshops with timber shopfronts and shutters, still worked by a few families."
+    },
+    {
+      "id": "iradi-telegraph-office",
+      "no": "99/024",
+      "name": "Iradi Telegraph Office",
+      "name_ru": "Здание Ирадской телеграфной конторы",
+      "type": "Monument of architecture and history",
+      "grade": "L",
+      "district": "Talas City",
+      "place": "Old City of Talas",
+      "date": "Early 20th c.",
+      "entered": "20.09.1999",
+      "holder": "Mayor's Office of Talas",
+      "zone": "Within the protected zone of the Old City (97/005).",
+      "photo": "yes",
+      "rules": [
+        "Filming and commercial photography: filming permit from the Service."
+      ],
+      "notice": "The building is not open to visitors.",
+      "desc": "Brick telegraph office of the Russian period in the Old City, one of the first public buildings of the town to carry an Iradi name."
+    },
+    {
+      "id": "talas-russian-quarter",
+      "no": "99/025",
+      "name": "Houses of the 1860s Russian town, Talas (group)",
+      "name_ru": "Жилые дома русского города 1860-х гг., Талас (группа)",
+      "type": "Monuments of architecture (group)",
+      "grade": "L",
+      "district": "Talas City",
+      "place": "Soviet Centre, east of Central Square",
+      "date": "1860s–1900s",
+      "entered": "20.09.1999",
+      "holder": "Private owners and the Mayor's Office of Talas",
+      "zone": "Each listed house and its street front. Porches, window frames and roofs keep their form and material.",
+      "photo": "yes",
+      "rules": [
+        "The houses are private. Photograph from the street only."
+      ],
+      "notice": "Owners may apply to the Service for help with repairs to carved window frames and porches.",
+      "desc": "Single-storey brick houses of the colonial grid town laid out east of the Kokand fort after 1864, with iron-roofed porches and carved window frames. The listed group covers the best-kept houses."
+    },
+    {
+      "id": "korgoncho-farmsteads",
+      "no": "99/026",
+      "name": "Walled farmsteads of Korgoncho (group)",
+      "name_ru": "Усадьбы-коргоны Коргончо (группа)",
+      "type": "Monuments of architecture (group)",
+      "grade": "L",
+      "district": "Lower Naryn District",
+      "place": "Korgoncho village",
+      "date": "Kokand period (18th–19th c.)",
+      "entered": "20.09.1999",
+      "holder": "Private owners",
+      "zone": "Walls and gateways of each listed farmstead.",
+      "photo": "yes",
+      "rules": [
+        "The farmsteads are lived in. Photograph from the street unless invited."
+      ],
+      "notice": "Repairs with cement render are not permitted on the listed walls.",
+      "desc": "Rammed-earth walled farmsteads of the Uzbek-speaking village of Korgoncho, which takes its name from them; the best surviving group of Kokand-era rural houses in Irad."
+    },
+    {
+      "id": "sopol-tepa-kilns",
+      "no": "99/027",
+      "name": "Potters' kilns of Sopol-Tepa (group)",
+      "name_ru": "Гончарные печи Сопол-Тепа (группа)",
+      "type": "Monuments of history (crafts, group)",
+      "grade": "L",
+      "district": "Lower Naryn District",
+      "place": "Sopol-Tepa village; clay pits at the Chopo-Jar bluffs",
+      "date": "19th–20th c.; kilns in use",
+      "entered": "20.09.1999",
+      "holder": "Private owners (potters' families)",
+      "zone": "Each listed kiln and its yard.",
+      "photo": "yes",
+      "rules": [
+        "Ask before photographing in the potters' yards."
+      ],
+      "notice": "Working kilns. Keep clear when a kiln is being fired.",
+      "desc": "Domed wood-fired kilns of the Uzbek-speaking potters of Sopol-Tepa, who dig their clay at the Chopo-Jar bluffs."
+    },
+    {
       "id": "shelji",
       "no": "01/033",
       "name": "Shelji silver-mining town",
@@ -293,6 +623,247 @@
       "desc": "A burial ground of earth mounds of the Saka period."
     },
     {
+      "id": "talas-central-square",
+      "no": "01/035",
+      "name": "Central Square of Talas (place of the events of 1956, 1989 and 1992)",
+      "name_ru": "Центральная площадь Таласа (место событий 1956, 1989 и 1992 гг.)",
+      "type": "Monument of history (memorable place)",
+      "grade": "N",
+      "district": "Talas City",
+      "place": "Central Square, Talas",
+      "date": "1956, 1989, 1991–92",
+      "entered": "14.03.2001",
+      "holder": "Mayor's Office of Talas",
+      "zone": "The square and the façades round it. Changes to the paving, monuments and façades need the Service's approval.",
+      "photo": "yes",
+      "rules": [
+        "Filming and commercial photography: filming permit from the Service."
+      ],
+      "notice": "Memorial plaques on the square list the dates. Public events need the Mayor's Office's permission.",
+      "desc": "The square of the 1956 Talas riots, of the first open commemoration of them on 14 June 1989 (about 20,000 people), and of the December 1991 protests that began the Winter Uprising of 1992."
+    },
+    {
+      "id": "kobozev-railhead",
+      "no": "01/036",
+      "name": "Kobozev railhead battlefield and the cairn of Kudaibergen Baatyr",
+      "name_ru": "Место боя у Кобозевского железнодорожного узла и курган-памятник Кудайбергена-батыра",
+      "type": "Monument of history (battlefield and memorial)",
+      "grade": "N",
+      "district": "Chu District",
+      "place": "Railway approaches to Nurzhan",
+      "date": "July 1992; cairn 1990s",
+      "entered": "14.03.2001",
+      "holder": "Chu District administration",
+      "zone": "The cairn and 50 m around it. The railway right of way is not open to visitors.",
+      "photo": "yes",
+      "rules": [
+        "Do not cross the railway tracks.",
+        "No photography of railway installations."
+      ],
+      "notice": "A memorial gathering is held at the cairn each 28 July.",
+      "desc": "Ground of the fighting for the Kobozev railhead at the end of July 1992, the deadliest action of Operation Starlight, where the Boztorgoy war leader Kudaibergen Duishön uulu (1961–1992) was killed on 28 July. The stone cairn raised in his memory is honoured on both sides of the line."
+    },
+    {
+      "id": "kobozev-radio-mast",
+      "no": "01/037",
+      "name": "Kobozev radio mast",
+      "name_ru": "Кобозевская радиомачта",
+      "type": "Monument of science and technology",
+      "grade": "N",
+      "district": "Nurzhan City",
+      "place": "Nurzhan",
+      "date": "1934",
+      "entered": "14.03.2001",
+      "holder": "Nurzhan City Hall",
+      "zone": "The mast, its anchor blocks and the guy-wire field.",
+      "photo": "yes",
+      "rules": [
+        "No climbing. No entry inside the guy-wire field.",
+        "Filming and commercial photography: filming permit from the Service."
+      ],
+      "notice": "The mast is no longer used for broadcasting.",
+      "desc": "Steel lattice radio mast of 1934, among the first works of the planned city of Kobozev and for decades its tallest structure. Carried the republic's first radio broadcasts."
+    },
+    {
+      "id": "talas-opera",
+      "no": "01/038",
+      "name": "Building of the Talas Opera and Ballet Theater",
+      "name_ru": "Здание Таласского театра оперы и балета",
+      "type": "Monument of architecture",
+      "grade": "L",
+      "district": "Talas City",
+      "place": "Central avenue, Talas",
+      "date": "1959",
+      "entered": "14.03.2001",
+      "holder": "Talas Opera and Ballet Theater",
+      "zone": "The building and the forecourt.",
+      "photo": "yes",
+      "rules": [
+        "No photography during performances."
+      ],
+      "notice": "A working theatre.",
+      "desc": "Stalinist-classical theatre building with a columned portico, opened in 1959; the ballet school followed in 1962."
+    },
+    {
+      "id": "oktyabr-cinema",
+      "no": "01/039",
+      "name": "Oktyabr cinema",
+      "name_ru": "Кинотеатр «Октябрь»",
+      "type": "Monument of architecture and history",
+      "grade": "L",
+      "district": "Talas City",
+      "place": "Cinema Boulevard, Talas",
+      "date": "Soviet period",
+      "entered": "14.03.2001",
+      "holder": "Talasfilm Archives (cinematheque since 1996)",
+      "zone": "The building and its street front.",
+      "photo": "yes",
+      "rules": [
+        "No photography or filming during screenings."
+      ],
+      "notice": "A working cinematheque.",
+      "desc": "Talasfilm's premiere house, where the studio's films opened (among them the films of 1979), since 1996 the cinematheque of the Talasfilm Archives."
+    },
+    {
+      "id": "pushkin-library",
+      "no": "01/040",
+      "name": "Building of the Pushkin Library, Nurzhan",
+      "name_ru": "Здание Пушкинской библиотеки, Нуржан",
+      "type": "Monument of architecture and history",
+      "grade": "L",
+      "district": "Nurzhan City",
+      "place": "9 Azatlık Prospect, Nurzhan",
+      "date": "Soviet period (State Republican Library of the Iradi SSR, founded 1934)",
+      "entered": "14.03.2001",
+      "holder": "National Library of Irad (Nurzhan branch)",
+      "zone": "The building and its street front.",
+      "photo": "yes",
+      "rules": [
+        "No photography in the reading rooms."
+      ],
+      "notice": "Open in library hours.",
+      "desc": "Home of the State Republican Library of the Iradi SSR named after A. S. Pushkin, now the Nurzhan branch of the National Library (Russian and technical collections)."
+    },
+    {
+      "id": "bath-no-3",
+      "no": "01/041",
+      "name": "Bath No. 3, Vokzal Square",
+      "name_ru": "Баня № 3, Вокзальная площадь",
+      "type": "Monument of architecture",
+      "grade": "L",
+      "district": "Nurzhan City",
+      "place": "Vokzal Square, Nurzhan",
+      "date": "1958",
+      "entered": "14.03.2001",
+      "holder": "Nurzhan City Hall (owner); let to an operator",
+      "zone": "The building and its façade on Vokzal Square.",
+      "photo": "yes",
+      "rules": [
+        "No photography inside the baths."
+      ],
+      "notice": "Open to the public.",
+      "desc": "Soviet public baths of 1958 on the station square, with their original façade and lettering."
+    },
+    {
+      "id": "rudnik-shaft-1",
+      "no": "01/042",
+      "name": "Headframe of Shaft No. 1 \"Pioneer\" and the miners' memorial, Rudnik",
+      "name_ru": "Копёр шахты № 1 «Пионер» и памятник горнякам, Рудник",
+      "type": "Monument of science and technology; monument of history",
+      "grade": "L",
+      "district": "Sary-Bulak District",
+      "place": "Rudnik, Sary-Bulak works settlement",
+      "date": "1961; memorial 2013",
+      "entered": "14.03.2001; memorial added 2013",
+      "holder": "Iradi Antimony Combine",
+      "zone": "The headframe and the memorial. The works area beyond is not open to visitors.",
+      "photo": "yes",
+      "rules": [
+        "Do not enter the works area.",
+        "No photography of the works beyond the memorial."
+      ],
+      "notice": "The memorial lists the miners killed at the Combine, including the four of February 2012.",
+      "desc": "Steel headframe of the first shaft of the Sary-Bulak antimony works (1961), kept when the shaft closed, and the miners' memorial unveiled beside it in 2013. The museum of the labour collective in the Rudnik house of culture keeps the first ingot of 1964."
+    },
+    {
+      "id": "defenders-of-talas",
+      "no": "05/048",
+      "name": "Memorial to the Defenders of Talas",
+      "name_ru": "Мемориал защитникам Таласа",
+      "type": "Monument of art (monumental sculpture)",
+      "grade": "L",
+      "district": "Talas City",
+      "place": "East end of Liberty Boulevard, Talas",
+      "date": "1997 (bronze, Arman Kadir)",
+      "entered": "16.06.2005",
+      "holder": "Mayor's Office of Talas",
+      "zone": "The memorial and its paved square.",
+      "photo": "yes",
+      "rules": [
+        "No climbing on the memorial."
+      ],
+      "notice": "Wreaths are laid on 18 June, the day the siege of 1992 was broken.",
+      "desc": "Bronze memorial to the defenders of Talas in the siege of 10 April – 18 June 1992, cast by Arman Kadir."
+    },
+    {
+      "id": "black-tulip",
+      "no": "05/049",
+      "name": "\"Kara Kyzgaldak\" (Black Tulip) memorial, Nurzhan",
+      "name_ru": "Мемориал «Черный тюльпан», Нуржан",
+      "type": "Monument of history (memorial)",
+      "grade": "L",
+      "district": "Nurzhan City",
+      "place": "Nurzhan",
+      "date": "1994",
+      "entered": "16.06.2005",
+      "holder": "Union of Afghan War Veterans of Irad (user); Nurzhan City Hall",
+      "zone": "The memorial and its square.",
+      "photo": "yes",
+      "rules": [],
+      "notice": "The veterans' union meets at the memorial each 15 February.",
+      "desc": "Memorial to the soldiers from the Iradi SSR killed in Afghanistan in 1979–89 (about 210 by the veterans' count), named after the aircraft that carried the coffins home."
+    },
+    {
+      "id": "palace-of-art-building",
+      "no": "09/055",
+      "name": "Building of the Irad Palace of Art",
+      "name_ru": "Здание Ирадского дворца искусств",
+      "type": "Monument of architecture",
+      "grade": "L",
+      "district": "Iyık Janyl City",
+      "place": "Cathedral Street 4, Iyık Janyl",
+      "date": "Soviet period (former district House of Culture)",
+      "entered": "10.04.2009",
+      "holder": "Irad Palace of Art",
+      "zone": "The building and its street front, within the buffer zone of the World Heritage property (97/001).",
+      "photo": "yes",
+      "rules": [
+        "Photography in the galleries follows the museum's rules."
+      ],
+      "notice": "Open in museum hours.",
+      "desc": "The former district House of Culture opposite the cathedral park, home of the Irad Palace of Art."
+    },
+    {
+      "id": "ishakov-house",
+      "no": "12/060",
+      "name": "House of Kemel Ishakov and his grave, Arsha-Say",
+      "name_ru": "Дом-музей Кемела Исхакова и его могила, Арша-Сай",
+      "type": "Monument of history (memorial house)",
+      "grade": "L",
+      "district": "Talas District",
+      "place": "Arsha-Say village, on State Route 1",
+      "date": "House 20th c.; museum 2012",
+      "entered": "09.10.2012",
+      "holder": "Arsha-Say village council (house-museum)",
+      "zone": "The house, the yard and the grave.",
+      "photo": "yes",
+      "rules": [
+        "No flash inside the house."
+      ],
+      "notice": "Open Wednesday to Sunday. Ask at the village council if the house is shut.",
+      "desc": "Birthplace and family house of the national novelist Kemel Ishakov (1930–2009), opened as a house-museum in 2012, and his grave in the village."
+    },
+    {
       "id": "talas-alatau-rock-art",
       "no": "13/062",
       "name": "Rock-art shelters of the Talas Alatau (group)",
@@ -315,6 +886,47 @@
       "img": "assets/photos/Ochre_rock_paintings_Talas_Alatau.jpg",
       "img2": "assets/photos/Petroglyphs.jpg",
       "desc": "Several hundred pecked images of ibex, deer, horses, archers, solar signs and two-wheeled chariots on dark-varnished boulders, and one shelter with paintings in red ochre. The Kara-Suu Canyon entrance panels were added to the group in 2026."
+    },
+    {
+      "id": "kobozev-airport-terminal",
+      "no": "16/071",
+      "name": "Terminal of Kobozev Airport",
+      "name_ru": "Здание аэровокзала аэропорта Кобозев",
+      "type": "Monument of architecture",
+      "grade": "L",
+      "district": "Chu District",
+      "place": "Aeroport, north-west of Nurzhan",
+      "date": "1968; gutted",
+      "entered": "22.06.2016",
+      "holder": "Nurzhan City Hall",
+      "zone": "The terminal and its forecourt.",
+      "photo": "yes",
+      "rules": [
+        "No admission: the building is unsafe.",
+        "No photography of the NurGaz heliport."
+      ],
+      "notice": "The building is fenced. The Service has asked for the roof to be made weathertight.",
+      "desc": "Modernist terminal of the old Kobozev Airport (1968), closed in 1992. The apron is now the Aeroport car market."
+    },
+    {
+      "id": "tegirmen-chapel",
+      "no": "25/097",
+      "name": "Ruined chapel at Tegirmen",
+      "name_ru": "Руины часовни у Тегирмена",
+      "type": "Monument of archaeology and history (provisional)",
+      "grade": "P",
+      "district": "Talas District",
+      "place": "Hillside above Tegirmen, Talas valley",
+      "date": "17th c. or earlier (under study)",
+      "entered": "21.07.2025 (provisional, 2 years)",
+      "holder": "Heritage Protection Service",
+      "zone": "The ruin and 100 m around it.",
+      "photo": "yes",
+      "rules": [
+        "No digging and no metal detectors. Offenders will be reported to the police."
+      ],
+      "notice": "Finds made here are to be declared to the Service within ten days (2010 amendment).",
+      "desc": "Ruins of a stone chapel in the Talas valley, below which a herder found a 17th-c. silver chalice and paten in 2025. Entered provisionally while the site is surveyed."
     },
     {
       "id": "kara-suu-dig",

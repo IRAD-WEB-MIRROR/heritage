@@ -38,7 +38,7 @@ function side(){
  s.innerHTML='<div class="box"><h4>'+esc(u('reg'))+'</h4><div><ul><li><a href="register.html?grade=W">World Heritage (4)</a></li><li><a href="register.html?grade=N">National importance</a></li><li><a href="register.html?grade=L">Local importance</a></li><li><a href="register.html?grade=P">Provisional protection</a></li></ul></div></div>'+
  '<div class="box"><h4>'+esc(u('links'))+'</h4><div><ul><li><a href="https://iradgov.org/">Office of the Governor</a></li><li><a href="https://archives.iradgov.org/">State Archives</a></li><li><a href="https://saintjanyl.org/">Church of St. Janyl</a></li><li><a href="https://maps.attelkom.net/">Attelkom Maps</a></li></ul></div></div>'+
  '<div class="box"><h4>'+esc(u('contacts'))+'</h4><div>14 Köhne Diz Street, Talas<br>Tel. +996-39-3-22-41-17<br>Fax +996-39-3-22-41-19<br><a href="mailto:hps@iradgov.org">hps@iradgov.org</a><br>Mon-Fri 9:00-17:00, lunch 13:00-14:00</div></div>'+
- '<div class="box"><h4>'+esc(u('visitors'))+'</h4><div><span class="cnt">'+counter()+'</span><br><span class="small">'+esc(u('upd'))+': 27.10.2026</span></div></div>';
+ '<div class="box"><h4>'+esc(u('visitors'))+'</h4><div><span class="cnt">'+counter()+'</span><br><span class="small">'+esc(u('upd'))+': 01.11.2026</span></div></div>';
 }
 function foot(){
  var f=document.getElementById('foot');if(f)f.innerHTML=esc(u('foot'))+'<br>'+esc(u('best'))+' · <a href="about.html#contacts">Webmaster</a>';
