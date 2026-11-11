@@ -113,12 +113,12 @@ if(page==='mon'){
    '<tr><th>Type</th><td>'+esc(m.type)+'</td></tr>'+
    '<tr><th>Date</th><td>'+esc(m.date)+'</td></tr>'+
    '<tr><th>District</th><td>'+esc(m.district)+'</td></tr>'+
-   '<tr><th>Location</th><td>'+esc(m.place)+'</td></tr>'+
+   '<tr><th>Location</th><td>'+esc(m.place)+(m.map?' (<a href="https://maps.attelkom.net/?p='+m.map+'">Attelkom Maps</a>)':'')+'</td></tr>'+
    '<tr><th>Entered in the Register</th><td>'+esc(m.entered)+'</td></tr>'+
    (m.wh?'<tr><th>World Heritage</th><td>'+esc(m.wh)+'</td></tr>':'')+
    '<tr><th>Owner / user</th><td>'+esc(m.holder)+'</td></tr>'+
    '<tr><th>Protection zone</th><td>'+esc(m.zone)+'</td></tr>'+
-   '<tr><th>Photography</th><td>'+photoMark(m)+'</td></tr></table></div></div>'+
+   '<tr><th>Photography</th><td>'+photoMark(m)+'</td></tr>'+(m.visit?'<tr><th>Visiting</th><td><a href="'+m.visit+'">Visit Irad: opening and access</a></td></tr>':'')+'</table></div></div>'+
    '<h2>Description</h2><p>'+esc(m.desc)+'</p>'+img2+
    '<div class="notice"><b class="h">HPS notice to visitors</b>'+esc(m.notice)+'<ul>'+m.rules.map(function(r){return '<li>'+esc(r)+'</li>';}).join('')+'</ul>'+(m.link?'<a href="'+m.link.href+'">'+esc(m.link.text)+'</a>':'')+'</div>'+
    '<p class="small">Under the heritage ordinance of 1997 (am. 2010), damage to a registered monument, unauthorised digging, and the removal of finds are offences. Report damage to the Service: +996-39-3-22-41-17.</p>';

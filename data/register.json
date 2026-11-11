@@ -30,7 +30,9 @@
       },
       "img": "assets/photos/Iyik_Janyl_valley.jpg",
       "img2": "assets/photos/Church_of_St_Janyl.jpg",
-      "desc": "The church built in 1727 by masons who used Islamic building techniques for a Syro-Iradi church, with its Nestorian iconography, the cloister, the seminary, the library and the archives of the archeparchy. Inscribed on the World Heritage List in 2004 together with the ruins of Old Iyık Janyl (97/002). The Old Juniper on the church terrace is a natural monument in its own right (98/014). The archeparchy owns and runs the precinct; the Service is the state body answerable for the listed property, approves works on the fabric and part-funds conservation."
+      "desc": "The church built in 1727 by masons who used Islamic building techniques for a Syro-Iradi church, with its Nestorian iconography, the cloister, the seminary, the library and the archives of the archeparchy. Inscribed on the World Heritage List in 2004 together with the ruins of Old Iyık Janyl (97/002). The Old Juniper on the church terrace is a natural monument in its own right (98/014). The archeparchy owns and runs the precinct; the Service is the state body answerable for the listed property, approves works on the fabric and part-funds conservation.",
+      "map": "church-of-st-janyl",
+      "visit": "https://visitirad.com/places/monuments/#st-janyl"
     },
     {
       "id": "shar-i-kuhna",
@@ -52,7 +54,9 @@
         "Metal detectors are prohibited inside the zone and within 500 m of it."
       ],
       "notice": "Keep to the marked paths. Do not climb the walls. Anything found on the ground is state property and is handed to the warden.",
-      "desc": "The walled medieval town of the 11th-century Nestorian settlement on the river terrace south-west of the present city, an open archaeological zone surrounded by the southern districts."
+      "desc": "The walled medieval town of the 11th-century Nestorian settlement on the river terrace south-west of the present city, an open archaeological zone surrounded by the southern districts.",
+      "map": "ruins-of-old-iyik-janyl",
+      "visit": "https://visitirad.com/places/monuments/#shar-i-kuhna"
     },
     {
       "id": "rabat-i-safed",
@@ -76,7 +80,9 @@
       ],
       "notice": "Open-air museum. Open daily 9:00–18:00 (November–March 10:00–16:00). Entrance 20 som, schoolchildren and pensioners free. Guided visits for groups by arrangement with the Service.",
       "img": "assets/photos/Caravanserai_of_Rabat-i-Safed.jpg",
-      "desc": "The white limestone caravanserai of the 9th century on the medieval road up the Talas valley, a Sogdian foundation on a square plan about 65 m a side with round corner bastions and one arched portal in the east wall. Conserved by the Service's works of 2010–2014 under Director N. Khudoiberdiev."
+      "desc": "The white limestone caravanserai of the 9th century on the medieval road up the Talas valley, a Sogdian foundation on a square plan about 65 m a side with round corner bastions and one arched portal in the east wall. Conserved by the Service's works of 2010–2014 under Director N. Khudoiberdiev.",
+      "map": "rabat-i-safed",
+      "visit": "https://visitirad.com/places/monuments/#rabat-i-safed"
     },
     {
       "id": "kok-tash-kariz",
@@ -100,7 +106,9 @@
       ],
       "notice": "The Service does not supervise sections on the tribal side of the line. Visitors may see the restored wells by the road; do not leave it.",
       "img": "assets/photos/Kok-Tash_Kariz.jpg",
-      "desc": "An underground irrigation system of galleries and vertical wells beneath the foothills, part of the 2014 Silk Roads listing. Some galleries still water the fields of the villages above them."
+      "desc": "An underground irrigation system of galleries and vertical wells beneath the foothills, part of the 2014 Silk Roads listing. Some galleries still water the fields of the villages above them.",
+      "map": "kok-tash-kariz",
+      "visit": "https://visitirad.com/places/monuments/#kok-tash-kariz"
     },
     {
       "id": "kohne-diz",
@@ -121,7 +129,9 @@
         "Digging of any depth in the citadel mound only under an excavation permit."
       ],
       "notice": "Householders in the protected zone apply to the Service before any works on walls, roofs or gates (form HPS-3).",
-      "desc": "The citadel mound on the west side of the Old City, the surviving north gate of the outer town wall (Temir-Kapka) and the south gate of the citadel's outer enclosure (Kalan Darwaza), with the lanes and courtyard houses between them. TSU dug the citadel from 1972 to 2005."
+      "desc": "The citadel mound on the west side of the Old City, the surviving north gate of the outer town wall (Temir-Kapka) and the south gate of the citadel's outer enclosure (Kalan Darwaza), with the lanes and courtyard houses between them. TSU dug the citadel from 1972 to 2005.",
+      "map": "talas-citadel",
+      "visit": "https://visitirad.com/places/monuments/#kohne-diz"
     },
     {
       "id": "diz-i-safid",
@@ -141,7 +151,9 @@
         "Photography for private use is allowed."
       ],
       "notice": "Keep off the walls after rain.",
-      "desc": "The Kara-Khanid citadel on its limestone knoll above the Lower Town and the Naryn, kept as a park."
+      "desc": "The Kara-Khanid citadel on its limestone knoll above the Lower Town and the Naryn, kept as a park.",
+      "map": "diz-i-safid",
+      "visit": "https://visitirad.com/places/monuments/#diz-i-safid"
     },
     {
       "id": "kenizek-khatun",
@@ -163,7 +175,8 @@
       ],
       "notice": "The inscription over the portal names Kenizek-Khatun, daughter of an emir. The Service uses this name. Remove shoes before entering.",
       "img": "assets/photos/Manas_Kumbozu_mausoleum.jpg",
-      "desc": "A domed brick mausoleum of the 14th century with a carved terracotta portal. Kyrgyz tradition holds it to be the tomb of Manas; its Arabic inscription names a woman, Kenizek-Khatun."
+      "desc": "A domed brick mausoleum of the 14th century with a carved terracotta portal. Kyrgyz tradition holds it to be the tomb of Manas; its Arabic inscription names a woman, Kenizek-Khatun.",
+      "visit": "https://visitirad.com/places/monuments/#kenizek-khatun"
     },
     {
       "id": "juma-mosque-talas",
@@ -185,7 +198,9 @@
         "Visitors are not admitted at Friday noon prayer."
       ],
       "notice": "A working mosque. Visits outside prayer times by arrangement with the imam-khatib.",
-      "desc": "Congregational mosque of the Old City with a columned wooden porch (aivan) of carved poplar columns on stone bases and a brick minaret. Closed in the 1930s and used as a store, reopened for worship in 1992. The top of the minaret fell in the Suusamyr earthquake of August 1992 and was rebuilt in brick from the old photographs."
+      "desc": "Congregational mosque of the Old City with a columned wooden porch (aivan) of carved poplar columns on stone bases and a brick minaret. Closed in the 1930s and used as a store, reopened for worship in 1992. The top of the minaret fell in the Suusamyr earthquake of August 1992 and was rebuilt in brick from the old photographs.",
+      "map": "juma-mosque-talas",
+      "visit": "https://visitirad.com/places/monuments/#juma-mosque-talas"
     },
     {
       "id": "st-yuhanna",
@@ -206,7 +221,9 @@
         "No flash or tripods inside the church."
       ],
       "notice": "A parish church in use. The open-air liturgies of 1990 are marked by a stone in the churchyard.",
-      "desc": "The oldest church of the Old City still in use, a brick hall church with a low dome over the sanctuary. Shut from 1937 to 1992. From Easter 1990 priests said open-air liturgies in front of the closed church, the first public services in Talas since the closures; the church was given back to the parish in 1992."
+      "desc": "The oldest church of the Old City still in use, a brick hall church with a low dome over the sanctuary. Shut from 1937 to 1992. From Easter 1990 priests said open-air liturgies in front of the closed church, the first public services in Talas since the closures; the church was given back to the parish in 1992.",
+      "map": "church-st-yuhanna-talas",
+      "visit": "https://visitirad.com/places/monuments/#st-yuhanna"
     },
     {
       "id": "temir-kapka",
@@ -227,7 +244,9 @@
         "Filming and commercial photography: filming permit from the Service."
       ],
       "notice": "Traffic through the gate is one way. Pedestrians use the side passage.",
-      "desc": "The only surviving gate of the outer town wall of Kokand Talas, a brick gate tower with a pointed arch and the iron-clad timber leaves that give it its name (\"iron gate\"). The wall either side was pulled down for streets in the Russian period."
+      "desc": "The only surviving gate of the outer town wall of Kokand Talas, a brick gate tower with a pointed arch and the iron-clad timber leaves that give it its name (\"iron gate\"). The wall either side was pulled down for streets in the Russian period.",
+      "map": "temir-kapka-gate",
+      "visit": "https://visitirad.com/places/monuments/#temir-kapka"
     },
     {
       "id": "talas-minaret-site",
@@ -248,7 +267,9 @@
         "Filming and commercial photography: filming permit from the Service."
       ],
       "notice": "The base is shown under a protective roof. Information board in Iradi, Russian and English.",
-      "desc": "The octagonal brick base of a Kara-Khanid minaret, with bands of cut-brick ornament, found under a courtyard in the Old City. The oldest standing masonry in Talas and evidence for the medieval town under the Old City."
+      "desc": "The octagonal brick base of a Kara-Khanid minaret, with bands of cut-brick ornament, found under a courtyard in the Old City. The oldest standing masonry in Talas and evidence for the medieval town under the Old City.",
+      "map": "old-quarter-minaret-site",
+      "visit": "https://visitirad.com/places/monuments/#talas-minaret-site"
     },
     {
       "id": "aulie-ata",
@@ -269,7 +290,8 @@
         "No photography of pilgrims at prayer without their consent."
       ],
       "notice": "The mausoleum is a place of prayer. The mound is unstable on its north side; keep to the paths.",
-      "desc": "The domed mausoleum of a Kara-Khanid ruler venerated as Aulie-Ata (\"holy father\"), round which the town grew, and the mound of the Kokand fortress of the 1850s, taken by the Russians in 1864. Some Russian and Soviet scholars placed medieval Taraz under the mound; Iradi historiography places Taraz at Talas. The Register records the site without taking a side."
+      "desc": "The domed mausoleum of a Kara-Khanid ruler venerated as Aulie-Ata (\"holy father\"), round which the town grew, and the mound of the Kokand fortress of the 1850s, taken by the Russians in 1864. Some Russian and Soviet scholars placed medieval Taraz under the mound; Iradi historiography places Taraz at Talas. The Register records the site without taking a side.",
+      "visit": "https://visitirad.com/places/monuments/#aulie-ata"
     },
     {
       "id": "talas-moncho",
@@ -290,7 +312,8 @@
         "Do not wash, water animals or throw coins in the springs."
       ],
       "notice": "The bathhouse is open to the public: men's and women's days alternate.",
-      "desc": "A domed brick bathhouse fed by the citadel springs through brick channels, restored and reopened in 2014 with the spring water piped again. Old Talas families still take a bride there before the wedding."
+      "desc": "A domed brick bathhouse fed by the citadel springs through brick channels, restored and reopened in 2014 with the spring water piped again. Old Talas families still take a bride there before the wedding.",
+      "visit": "https://visitirad.com/places/monuments/#talas-moncho"
     },
     {
       "id": "kart-archa",
@@ -311,7 +334,9 @@
         "Do not lean on the iron crutch (1911)."
       ],
       "notice": "Inside the World Heritage precinct (97/001); the precinct rules apply.",
-      "desc": "A Zeravshan juniper about 14 m high, the oldest living thing in the precinct; its north limb has rested on an iron crutch since 1911."
+      "desc": "A Zeravshan juniper about 14 m high, the oldest living thing in the precinct; its north limb has rested on an iron crutch since 1911.",
+      "map": "old-juniper-cathedral-hill",
+      "visit": "https://visitirad.com/places/monuments/#kart-archa"
     },
     {
       "id": "ravine-cells",
@@ -333,7 +358,8 @@
         "No photography or filming of occupied cells."
       ],
       "notice": "Pilgrims follow the Order's routes. Do not remove stones, crosses or votive objects.",
-      "desc": "Twelve of the hermitages in the limestone gorges used by Christians who worshipped in secret after Timur and by monks and priests hiding in the 1930s. About forty are known; the twelve entered here are those the Service has surveyed."
+      "desc": "Twelve of the hermitages in the limestone gorges used by Christians who worshipped in secret after Timur and by monks and priests hiding in the 1930s. About forty are known; the twelve entered here are those the Service has surveyed.",
+      "visit": "https://visitirad.com/places/monuments/#ravine-cells"
     },
     {
       "id": "abdrai-korgon",
@@ -354,7 +380,8 @@
         "Filming and commercial photography: filming permit from the Service."
       ],
       "notice": "Restoration of the gate tower by the Abdrai Heritage Foundation was approved by the Service (form HPS-3).",
-      "desc": "The walled farmstead (korgon) that was the seat of the Abdrai line of mingbashy, captains of the Christian Iradi horse of the Khanate of Kokand from the firman of 1730 until Chernyayev took the Talas forts in 1864. Rammed-earth walls with corner towers and a brick gate tower. The only building of the Kokand period in Irad tied to a Christian office."
+      "desc": "The walled farmstead (korgon) that was the seat of the Abdrai line of mingbashy, captains of the Christian Iradi horse of the Khanate of Kokand from the firman of 1730 until Chernyayev took the Talas forts in 1864. Rammed-earth walls with corner towers and a brick gate tower. The only building of the Kokand period in Irad tied to a Christian office.",
+      "visit": "https://visitirad.com/places/monuments/#abdrai-korgon"
     },
     {
       "id": "cathedral-hill-cemetery",
@@ -375,7 +402,9 @@
         "Do not touch or rub the gravestones."
       ],
       "notice": "A consecrated burial ground. Visitors keep to the paths.",
-      "desc": "Burial ground of the bishops and clergy of Iyık Janyl before the closures of 1937, with carved stones in Syriac and Iradi. Mar Gewargis and three of his successors lie in the church crypt; most of the other bishops and clergy before 1937 lie here."
+      "desc": "Burial ground of the bishops and clergy of Iyık Janyl before the closures of 1937, with carved stones in Syriac and Iradi. Mar Gewargis and three of his successors lie in the church crypt; most of the other bishops and clergy before 1937 lie here.",
+      "map": "old-cemetery-cathedral-hill",
+      "visit": "https://visitirad.com/places/monuments/#cathedral-hill-cemetery"
     },
     {
       "id": "order-motherhouse",
@@ -396,7 +425,9 @@
         "No photography of the sisters or brothers without consent."
       ],
       "notice": "A religious house. The chapel is open for services.",
-      "desc": "Motherhouse of the Order of St. Janyl. Its women's branch opened a school for deaf girls here in 1926, where the sisters made the sign vocabulary from which Iradi Sign Language grew; the school was closed in 1937."
+      "desc": "Motherhouse of the Order of St. Janyl. Its women's branch opened a school for deaf girls here in 1926, where the sisters made the sign vocabulary from which Iradi Sign Language grew; the school was closed in 1937.",
+      "map": "order-st-janyl-motherhouse",
+      "visit": "https://visitirad.com/places/monuments/#order-motherhouse"
     },
     {
       "id": "st-gewargis-chapel",
@@ -416,7 +447,8 @@
         "No photography during services."
       ],
       "notice": "The key is kept in the parish. Damage to the chapel should be reported to the Service and the police.",
-      "desc": "Small domed brick chapel on the edge of Bazar-Korgon, one of the few Christian buildings of the Fergana rim farm belt. When a horse skull was nailed over its door in March 2016, men from the town mosque helped take it down."
+      "desc": "Small domed brick chapel on the edge of Bazar-Korgon, one of the few Christian buildings of the Fergana rim farm belt. When a horse skull was nailed over its door in March 2016, men from the town mosque helped take it down.",
+      "visit": "https://visitirad.com/places/monuments/#st-gewargis-chapel"
     },
     {
       "id": "kochkor-ata-chapel",
@@ -436,7 +468,8 @@
         "No photography during services."
       ],
       "notice": "The key is kept in the parish.",
-      "desc": "Village chapel of the Christian minority of Kochkor-Ata, a mainly Muslim town of the Lower Naryn."
+      "desc": "Village chapel of the Christian minority of Kochkor-Ata, a mainly Muslim town of the Lower Naryn.",
+      "visit": "https://visitirad.com/places/monuments/#kochkor-ata-chapel"
     },
     {
       "id": "kand-i-kohna",
@@ -457,7 +490,9 @@
         "Metal detectors prohibited."
       ],
       "notice": "No vehicles on the mound.",
-      "desc": "A town mound with layers from the Saka period through the Sogdian and early Islamic periods."
+      "desc": "A town mound with layers from the Saka period through the Sogdian and early Islamic periods.",
+      "map": "kand-i-kohna",
+      "visit": "https://visitirad.com/places/monuments/#kand-i-kohna"
     },
     {
       "id": "shahr-i-buzurg",
@@ -478,7 +513,9 @@
         "Metal detectors prohibited."
       ],
       "notice": "Grazing on the ramparts is prohibited. Herders are asked to keep stock off the citadel.",
-      "desc": "A walled Sogdian and Kara-Khanid town with a citadel mound, a mudbrick shahristan and an outer suburb."
+      "desc": "A walled Sogdian and Kara-Khanid town with a citadel mound, a mudbrick shahristan and an outer suburb.",
+      "map": "shahr-i-buzurg",
+      "visit": "https://visitirad.com/places/monuments/#shahr-i-buzurg"
     },
     {
       "id": "coppersmiths-row",
@@ -498,7 +535,9 @@
         "Ask before photographing craftsmen at work."
       ],
       "notice": "A working street. Signs and awnings need the Service's approval.",
-      "desc": "Street of coppersmiths' and tinsmiths' workshops with timber shopfronts and shutters, still worked by a few families."
+      "desc": "Street of coppersmiths' and tinsmiths' workshops with timber shopfronts and shutters, still worked by a few families.",
+      "map": "misgaron-coppersmiths-row",
+      "visit": "https://visitirad.com/places/monuments/#coppersmiths-row"
     },
     {
       "id": "iradi-telegraph-office",
@@ -518,7 +557,9 @@
         "Filming and commercial photography: filming permit from the Service."
       ],
       "notice": "The building is not open to visitors.",
-      "desc": "Brick telegraph office of the Russian period in the Old City, one of the first public buildings of the town to carry an Iradi name."
+      "desc": "Brick telegraph office of the Russian period in the Old City, one of the first public buildings of the town to carry an Iradi name.",
+      "map": "iradi-telegraph-office",
+      "visit": "https://visitirad.com/places/monuments/#iradi-telegraph-office"
     },
     {
       "id": "talas-russian-quarter",
@@ -538,7 +579,9 @@
         "The houses are private. Photograph from the street only."
       ],
       "notice": "Owners may apply to the Service for help with repairs to carved window frames and porches.",
-      "desc": "Single-storey brick houses of the colonial grid town laid out east of the Kokand fort after 1864, with iron-roofed porches and carved window frames. The listed group covers the best-kept houses."
+      "desc": "Single-storey brick houses of the colonial grid town laid out east of the Kokand fort after 1864, with iron-roofed porches and carved window frames. The listed group covers the best-kept houses.",
+      "map": "russian-town-houses-talas",
+      "visit": "https://visitirad.com/places/monuments/#talas-russian-quarter"
     },
     {
       "id": "korgoncho-farmsteads",
@@ -558,7 +601,8 @@
         "The farmsteads are lived in. Photograph from the street unless invited."
       ],
       "notice": "Repairs with cement render are not permitted on the listed walls.",
-      "desc": "Rammed-earth walled farmsteads of the Uzbek-speaking village of Korgoncho, which takes its name from them; the best surviving group of Kokand-era rural houses in Irad."
+      "desc": "Rammed-earth walled farmsteads of the Uzbek-speaking village of Korgoncho, which takes its name from them; the best surviving group of Kokand-era rural houses in Irad.",
+      "visit": "https://visitirad.com/places/monuments/#korgoncho-farmsteads"
     },
     {
       "id": "sopol-tepa-kilns",
@@ -578,7 +622,8 @@
         "Ask before photographing in the potters' yards."
       ],
       "notice": "Working kilns. Keep clear when a kiln is being fired.",
-      "desc": "Domed wood-fired kilns of the Uzbek-speaking potters of Sopol-Tepa, who dig their clay at the Chopo-Jar bluffs."
+      "desc": "Domed wood-fired kilns of the Uzbek-speaking potters of Sopol-Tepa, who dig their clay at the Chopo-Jar bluffs.",
+      "visit": "https://visitirad.com/places/monuments/#sopol-tepa-kilns"
     },
     {
       "id": "shelji",
@@ -599,7 +644,9 @@
         "Photography for private use is allowed on the town site."
       ],
       "notice": "The TSU dig is open to visitors on Saturdays in July and August.",
-      "desc": "The citadel mound, walled town and workshop quarters of a medieval silver-mining town named by the Arab geographers."
+      "desc": "The citadel mound, walled town and workshop quarters of a medieval silver-mining town named by the Arab geographers.",
+      "map": "shelji",
+      "visit": "https://visitirad.com/places/monuments/#shelji"
     },
     {
       "id": "kara-bulak-kurgans",
@@ -620,7 +667,9 @@
         "Ploughing and digging prohibited."
       ],
       "notice": "Do not drive over the mounds.",
-      "desc": "A burial ground of earth mounds of the Saka period."
+      "desc": "A burial ground of earth mounds of the Saka period.",
+      "map": "kara-bulak-kurgans",
+      "visit": "https://visitirad.com/places/monuments/#kara-bulak-kurgans"
     },
     {
       "id": "talas-central-square",
@@ -640,7 +689,9 @@
         "Filming and commercial photography: filming permit from the Service."
       ],
       "notice": "Memorial plaques on the square list the dates. Public events need the Mayor's Office's permission.",
-      "desc": "The square of the 1956 Talas riots, of the first open commemoration of them on 14 June 1989 (about 20,000 people), and of the December 1991 protests that began the Winter Uprising of 1992."
+      "desc": "The square of the 1956 Talas riots, of the first open commemoration of them on 14 June 1989 (about 20,000 people), and of the December 1991 protests that began the Winter Uprising of 1992.",
+      "map": "talas-central-square",
+      "visit": "https://visitirad.com/places/monuments/#talas-central-square"
     },
     {
       "id": "kobozev-railhead",
@@ -661,7 +712,8 @@
         "No photography of railway installations."
       ],
       "notice": "A memorial gathering is held at the cairn each 28 July.",
-      "desc": "Ground of the fighting for the Kobozev railhead at the end of July 1992, the deadliest action of Operation Starlight, where the Boztorgoy war leader Kudaibergen Duishön uulu (1961–1992) was killed on 28 July. The stone cairn raised in his memory is honoured on both sides of the line."
+      "desc": "Ground of the fighting for the Kobozev railhead at the end of July 1992, the deadliest action of Operation Starlight, where the Boztorgoy war leader Kudaibergen Duishön uulu (1961–1992) was killed on 28 July. The stone cairn raised in his memory is honoured on both sides of the line.",
+      "visit": "https://visitirad.com/places/monuments/#kobozev-railhead"
     },
     {
       "id": "kobozev-radio-mast",
@@ -682,7 +734,8 @@
         "Filming and commercial photography: filming permit from the Service."
       ],
       "notice": "The mast is no longer used for broadcasting.",
-      "desc": "Steel lattice radio mast of 1934, among the first works of the planned city of Kobozev and for decades its tallest structure. Carried the republic's first radio broadcasts."
+      "desc": "Steel lattice radio mast of 1934, among the first works of the planned city of Kobozev and for decades its tallest structure. Carried the republic's first radio broadcasts.",
+      "visit": "https://visitirad.com/places/monuments/#kobozev-radio-mast"
     },
     {
       "id": "talas-opera",
@@ -702,7 +755,9 @@
         "No photography during performances."
       ],
       "notice": "A working theatre.",
-      "desc": "Stalinist-classical theatre building with a columned portico, opened in 1959; the ballet school followed in 1962."
+      "desc": "Stalinist-classical theatre building with a columned portico, opened in 1959; the ballet school followed in 1962.",
+      "map": "talas-opera-ballet",
+      "visit": "https://visitirad.com/places/monuments/#talas-opera"
     },
     {
       "id": "oktyabr-cinema",
@@ -722,7 +777,9 @@
         "No photography or filming during screenings."
       ],
       "notice": "A working cinematheque.",
-      "desc": "Talasfilm's premiere house, where the studio's films opened (among them the films of 1979), since 1996 the cinematheque of the Talasfilm Archives."
+      "desc": "Talasfilm's premiere house, where the studio's films opened (among them the films of 1979), since 1996 the cinematheque of the Talasfilm Archives.",
+      "map": "oktyabr-cinema-talas",
+      "visit": "https://visitirad.com/places/monuments/#oktyabr-cinema"
     },
     {
       "id": "pushkin-library",
@@ -742,7 +799,9 @@
         "No photography in the reading rooms."
       ],
       "notice": "Open in library hours.",
-      "desc": "Home of the State Republican Library of the Iradi SSR named after A. S. Pushkin, now the Nurzhan branch of the National Library (Russian and technical collections)."
+      "desc": "Home of the State Republican Library of the Iradi SSR named after A. S. Pushkin, now the Nurzhan branch of the National Library (Russian and technical collections).",
+      "map": "pushkin-library-nurzhan",
+      "visit": "https://visitirad.com/places/monuments/#pushkin-library"
     },
     {
       "id": "bath-no-3",
@@ -762,7 +821,9 @@
         "No photography inside the baths."
       ],
       "notice": "Open to the public.",
-      "desc": "Soviet public baths of 1958 on the station square, with their original façade and lettering."
+      "desc": "Soviet public baths of 1958 on the station square, with their original façade and lettering.",
+      "map": "nurzhan-bath-3",
+      "visit": "https://visitirad.com/places/monuments/#bath-no-3"
     },
     {
       "id": "rudnik-shaft-1",
@@ -783,7 +844,8 @@
         "No photography of the works beyond the memorial."
       ],
       "notice": "The memorial lists the miners killed at the Combine, including the four of February 2012.",
-      "desc": "Steel headframe of the first shaft of the Sary-Bulak antimony works (1961), kept when the shaft closed, and the miners' memorial unveiled beside it in 2013. The museum of the labour collective in the Rudnik house of culture keeps the first ingot of 1964."
+      "desc": "Steel headframe of the first shaft of the Sary-Bulak antimony works (1961), kept when the shaft closed, and the miners' memorial unveiled beside it in 2013. The museum of the labour collective in the Rudnik house of culture keeps the first ingot of 1964.",
+      "visit": "https://visitirad.com/places/monuments/#rudnik-shaft-1"
     },
     {
       "id": "defenders-of-talas",
@@ -803,7 +865,9 @@
         "No climbing on the memorial."
       ],
       "notice": "Wreaths are laid on 18 June, the day the siege of 1992 was broken.",
-      "desc": "Bronze memorial to the defenders of Talas in the siege of 10 April – 18 June 1992, cast by Arman Kadir."
+      "desc": "Bronze memorial to the defenders of Talas in the siege of 10 April – 18 June 1992, cast by Arman Kadir.",
+      "map": "memorial-defenders-of-talas",
+      "visit": "https://visitirad.com/places/monuments/#defenders-of-talas"
     },
     {
       "id": "black-tulip",
@@ -821,7 +885,8 @@
       "photo": "yes",
       "rules": [],
       "notice": "The veterans' union meets at the memorial each 15 February.",
-      "desc": "Memorial to the soldiers from the Iradi SSR killed in Afghanistan in 1979–89 (about 210 by the veterans' count), named after the aircraft that carried the coffins home."
+      "desc": "Memorial to the soldiers from the Iradi SSR killed in Afghanistan in 1979–89 (about 210 by the veterans' count), named after the aircraft that carried the coffins home.",
+      "visit": "https://visitirad.com/places/monuments/#black-tulip"
     },
     {
       "id": "palace-of-art-building",
@@ -841,7 +906,9 @@
         "Photography in the galleries follows the museum's rules."
       ],
       "notice": "Open in museum hours.",
-      "desc": "The former district House of Culture opposite the cathedral park, home of the Irad Palace of Art."
+      "desc": "The former district House of Culture opposite the cathedral park, home of the Irad Palace of Art.",
+      "map": "irad-palace-of-art",
+      "visit": "https://visitirad.com/places/monuments/#palace-of-art-building"
     },
     {
       "id": "ishakov-house",
@@ -861,7 +928,9 @@
         "No flash inside the house."
       ],
       "notice": "Open Wednesday to Sunday. Ask at the village council if the house is shut.",
-      "desc": "Birthplace and family house of the national novelist Kemel Ishakov (1930–2009), opened as a house-museum in 2012, and his grave in the village."
+      "desc": "Birthplace and family house of the national novelist Kemel Ishakov (1930–2009), opened as a house-museum in 2012, and his grave in the village.",
+      "map": "ishakov-house-museum",
+      "visit": "https://visitirad.com/places/monuments/#ishakov-house"
     },
     {
       "id": "talas-alatau-rock-art",
@@ -885,7 +954,9 @@
       "notice": "Damage to rock art is an offence under the 1997 heritage ordinance. The Kara-Suu Canyon panels, damaged in places by graffiti and road works, are under provisional protection while the Service surveys them.",
       "img": "assets/photos/Ochre_rock_paintings_Talas_Alatau.jpg",
       "img2": "assets/photos/Petroglyphs.jpg",
-      "desc": "Several hundred pecked images of ibex, deer, horses, archers, solar signs and two-wheeled chariots on dark-varnished boulders, and one shelter with paintings in red ochre. The Kara-Suu Canyon entrance panels were added to the group in 2026."
+      "desc": "Several hundred pecked images of ibex, deer, horses, archers, solar signs and two-wheeled chariots on dark-varnished boulders, and one shelter with paintings in red ochre. The Kara-Suu Canyon entrance panels were added to the group in 2026.",
+      "map": "taldy-bulak-petroglyphs",
+      "visit": "https://visitirad.com/places/monuments/#talas-alatau-rock-art"
     },
     {
       "id": "kobozev-airport-terminal",
@@ -906,7 +977,9 @@
         "No photography of the NurGaz heliport."
       ],
       "notice": "The building is fenced. The Service has asked for the roof to be made weathertight.",
-      "desc": "Modernist terminal of the old Kobozev Airport (1968), closed in 1992. The apron is now the Aeroport car market."
+      "desc": "Modernist terminal of the old Kobozev Airport (1968), closed in 1992. The apron is now the Aeroport car market.",
+      "map": "kobozev-airport-terminal",
+      "visit": "https://visitirad.com/places/monuments/#kobozev-airport-terminal"
     },
     {
       "id": "tegirmen-chapel",
@@ -926,7 +999,8 @@
         "No digging and no metal detectors. Offenders will be reported to the police."
       ],
       "notice": "Finds made here are to be declared to the Service within ten days (2010 amendment).",
-      "desc": "Ruins of a stone chapel in the Talas valley, below which a herder found a 17th-c. silver chalice and paten in 2025. Entered provisionally while the site is surveyed."
+      "desc": "Ruins of a stone chapel in the Talas valley, below which a herder found a 17th-c. silver chalice and paten in 2025. Entered provisionally while the site is surveyed.",
+      "visit": "https://visitirad.com/places/monuments/#tegirmen-chapel"
     },
     {
       "id": "kara-suu-dig",
@@ -949,7 +1023,9 @@
       ],
       "notice": "Excavation permit No. 07/2026 (rescue excavation). Finds are recorded and go to the Service's store; results will be published by TSU. The site is next to the Gendarmerie control post; follow the post's instructions.",
       "noimg": "Photography of the excavation is not permitted.",
-      "desc": "A limestone cave shelter at the canyon mouth found during rockfall clearing on the Sary-Bulak road. Trial trenches in September 2026 found hearths and pottery. Entered provisionally while the excavation lasts."
+      "desc": "A limestone cave shelter at the canyon mouth found during rockfall clearing on the Sary-Bulak road. Trial trenches in September 2026 found hearths and pottery. Entered provisionally while the excavation lasts.",
+      "map": "kara-suu-canyon",
+      "visit": "https://visitirad.com/places/monuments/#kara-suu-dig"
     }
   ],
   "unlisted": "Sites on the tribal side of the Qara-Chik line (Bitik-Tash, Kara-Unkur Cave and others) are recorded in the Archaeological Map of the Karatau and the Kyzylkum Fringe (TSU, 2009) but are not entered in the Register: the Service does not work beyond the line."
