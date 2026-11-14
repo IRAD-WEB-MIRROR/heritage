@@ -46,7 +46,7 @@ function side(){
  s.innerHTML='<div class="box"><h4>'+esc(u('reg'))+'</h4><div><ul><li><a href="/register.html?grade=W">World Heritage (4)</a></li><li><a href="/register.html?grade=N">National importance</a></li><li><a href="/register.html?grade=L">Local importance</a></li><li><a href="/register.html?grade=P">Provisional protection</a></li></ul></div></div>'+
  svcBox()+
  '<div class="box"><h4>'+esc(u('links'))+'</h4><div><ul><li><a href="https://iradgov.org/">Office of the Governor</a></li><li><a href="https://archives.iradgov.org/">State Archives</a></li><li><a href="https://saintjanyl.org/">Church of St. Janyl</a></li><li><a href="https://maps.attelkom.net/">Attelkom Maps</a></li></ul></div></div>'+
- '<div class="box"><h4>'+esc(u('contacts'))+'</h4><div>14 Köhne Diz Street, Talas<br>Tel. +996-39-3-22-41-17<br>Fax +996-39-3-22-41-19<br><a href="mailto:hps@iradgov.org">hps@iradgov.org</a><br>Mon-Fri 9:00-17:00, lunch 13:00-14:00</div></div>'+
+ '<div class="box"><h4>'+esc(u('contacts'))+'</h4><div>14 Köhne Diz Street, Talas<br>Tel. +996-39-2-22-41-17<br>Fax +996-39-2-22-41-19<br><a href="mailto:hps@iradgov.org">hps@iradgov.org</a><br>Mon-Fri 9:00-17:00, lunch 13:00-14:00</div></div>'+
  '<div class="box"><h4>'+esc(u('visitors'))+'</h4><div><span class="cnt">'+counter()+'</span><br><span class="small">'+esc(u('upd'))+': 01.11.2026</span></div></div>';
 }
 function foot(){
@@ -121,7 +121,7 @@ if(page==='mon'){
    '<tr><th>Photography</th><td>'+photoMark(m)+'</td></tr>'+(m.visit?'<tr><th>Visiting</th><td><a href="'+m.visit+'">Visit Irad: opening and access</a></td></tr>':'')+'</table></div></div>'+
    '<h2>Description</h2><p>'+esc(m.desc)+'</p>'+img2+
    '<div class="notice"><b class="h">HPS notice to visitors</b>'+esc(m.notice)+'<ul>'+m.rules.map(function(r){return '<li>'+esc(r)+'</li>';}).join('')+'</ul>'+(m.link?'<a href="'+m.link.href+'">'+esc(m.link.text)+'</a>':'')+'</div>'+
-   '<p class="small">Under the heritage ordinance of 1997 (am. 2010), damage to a registered monument, unauthorised digging, and the removal of finds are offences. Report damage to the Service: +996-39-3-22-41-17.</p>';
+   '<p class="small">Under the heritage ordinance of 1997 (am. 2010), damage to a registered monument, unauthorised digging, and the removal of finds are offences. Report damage to the Service: +996-39-2-22-41-17.</p>';
  });
 }
 })();
